@@ -1,0 +1,5 @@
+Library/
+obj/
+Out/
+Temp
+*.DS_Store
